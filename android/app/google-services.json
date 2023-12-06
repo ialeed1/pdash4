@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747261955655",
+    "project_id": "purduedash-50f0b",
+    "storage_bucket": "purduedash-50f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747261955655:android:6a8777a3e9b4e9629eab62",
+        "android_client_info": {
+          "package_name": "com.example.purdue_dash_courier_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVaUrWIYNPAkQb-zttHqM40_mdUBMK2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747261955655:android:8c6d2c34e7de6f459eab62",
+        "android_client_info": {
+          "package_name": "com.example.purdue_dash_merchant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVaUrWIYNPAkQb-zttHqM40_mdUBMK2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
